@@ -402,15 +402,14 @@ camcol-project/
 CamCol is developed by students of the 6th Semester, B.Tech (Computer Science & Engineering), C.V. Raman Global University, Bhubaneswar, Odisha.
 
 **Development Team:**
-- **Sai Suman Samantaray** - Roll No: 2301020565
-- **Suvrajit Senapati**
-- **Sanjay Kumar Sahoo**
-- **Satya Spandan Rout**
-- **Rohan Anand**
-
+- **Mrutyunjaya Maharana** - Roll No: 2301020464
+- **Pramod Kumar Sahoo** - Roll No: 2301020263
+- **Nishit Nayak** - Roll No: 2301020149
+- **Ommprakash Jena** - Roll No: 2301020150
+  
 **Institution:** C.V. Raman Global University, Bhubaneswar  
 **Department:** Computer Science & Engineering  
-**Academic Year:** 2025-26
+**Academic Year:** 2023-2027
 
 ---
 
